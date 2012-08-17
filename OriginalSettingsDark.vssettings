@@ -273,9 +273,9 @@
 					</Category>
 					<Category GUID="{FF349800-EA43-46C1-8C98-878E78F46501}" FontIsDefault="Yes">
 						<Items>
-							<Item Name="Read-Only Region" Background="0x005A5A5A" BoldFont="No"/>
+							<Item Name="Read-Only Region" Foreground="0x01000000" Background="0x005A5A5A" BoldFont="No"/>
 							<Item Name="Task List Shortcut" Foreground="0x01000002" Background="0x00F4CA92" BoldFont="No"/>
-							<Item Name="Bookmark" Background="0x0051657E" BoldFont="No"/>
+							<Item Name="Bookmark" Foreground="0x01000000" Background="0x0051657E" BoldFont="No"/>
 							<Item Name="compiler error" Foreground="0x00FF0000" Background="0x01000018" BoldFont="No"/>
 							<Item Name="syntax error" Foreground="0x000000FF" Background="0x01000018" BoldFont="No"/>
 							<Item Name="other error" Foreground="0x00951795" Background="0x01000018" BoldFont="No"/>
@@ -283,18 +283,18 @@
 							<Item Name="Collapsible Text (Expanded)" Foreground="0x0100000B" Background="0x01000003" BoldFont="No"/>
 							<Item Name="Current List Location" Foreground="0x00FFFFFF" Background="0x00FF9933" BoldFont="No"/>
 							<Item Name="compiler warning" Foreground="0x00008000" Background="0x01000018" BoldFont="No"/>
-							<Item Name="Code Snippet Field" Background="0x005B5B5B" BoldFont="No"/>
+							<Item Name="Code Snippet Field" Foreground="0x01000000" Background="0x005B5B5B" BoldFont="No"/>
 							<Item Name="Code Snippet Field (Selected)" Foreground="0x01000000" Background="0x00002146" BoldFont="No"/>
 							<Item Name="Smart Tag" Foreground="0x007DBAD7" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Track Changes before save" Background="0x0084F2EF" BoldFont="No"/>
-							<Item Name="Track Changes after save" Background="0x00307457" BoldFont="No"/>
-							<Item Name="Bookmark (Disabled)" Background="0x00F9D2BF" BoldFont="No"/>
-							<Item Name="Brace Matching (Rectangle)" Background="0x0083450E" BoldFont="No"/>
-							<Item Name="Definition Window Background" Background="0x001E1E1E" BoldFont="No"/>
+							<Item Name="Track Changes before save" Foreground="0x01000000" Background="0x0084F2EF" BoldFont="No"/>
+							<Item Name="Track Changes after save" Foreground="0x01000000" Background="0x00307457" BoldFont="No"/>
+							<Item Name="Bookmark (Disabled)" Foreground="0x01000000" Background="0x00F9D2BF" BoldFont="No"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x01000000" Background="0x0083450E" BoldFont="No"/>
+							<Item Name="Definition Window Background" Foreground="0x01000000" Background="0x001E1E1E" BoldFont="No"/>
 							<Item Name="Definition Window Current Match" Foreground="0x007DBAD7" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Warning Lines Path" Foreground="0x004E4421" Background="0x00A8CEB5" BoldFont="No"/>
 							<Item Name="Brace Matching (Highlight)" Foreground="0x01000000" Background="0x01000001" BoldFont="Yes"/>
-							<Item Name="Refactoring Background" Background="0x001E1E1E" BoldFont="No"/>
+							<Item Name="Refactoring Background" Foreground="0x01000000" Background="0x001E1E1E" BoldFont="No"/>
 							<Item Name="Code Snippet Dependent Field" Foreground="0x003D61B6" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Refactoring Current Field" Foreground="0x01000000" Background="0x00707450" BoldFont="No"/>
 							<Item Name="Refactoring Dependent Field" Foreground="0x009B9B9B" Background="0x02000000" BoldFont="No"/>
@@ -312,7 +312,7 @@
 							<Item Name="Tracepoint - Mapped (Disabled)" Foreground="0x005050D8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Tracepoint (Enabled)" Foreground="0x007DBAD7" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Breakpoint - Advanced (Warning)" Foreground="0x00FFFFFF" Background="0x002F2F8C" BoldFont="No"/>
-							<Item Name="Visual Basic Read Only Marker" Background="0x0051657E" BoldFont="No"/>
+							<Item Name="Visual Basic Read Only Marker" Foreground="0x01000000" Background="0x0051657E" BoldFont="No"/>
 							<Item Name="Breakpoint - Mapped (Warning)" Foreground="0x00FFFFFF" Background="0x002F2F8C" BoldFont="No"/>
 							<Item Name="Breakpoint - Mapped (Disabled)" Foreground="0x00000080" Background="0x01000018" BoldFont="No"/>
 							<Item Name="Breakpoint - Mapped (Error)" Foreground="0x00A3DBFF" Background="0x002F2F8C" BoldFont="No"/>
