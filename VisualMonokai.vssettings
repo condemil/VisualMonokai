@@ -13,6 +13,7 @@
 							<Item Name="CurrentLineActiveFormat" Foreground="0x00242424" Background="0x00242424" BoldFont="No"/>
 							<Item Name="CurrentLineInactiveFormat" Foreground="0x00282828" Background="0x00282828" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x00EFD966" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Line Number" Foreground="0x008A908F" Background="0x01000001" BoldFont="No"/>
 							<Item Name="String" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
