@@ -13,11 +13,14 @@
 							<Item Name="CurrentLineActiveFormat" Foreground="0x00242424" Background="0x00242424" BoldFont="No"/>
 							<Item Name="CurrentLineInactiveFormat" Foreground="0x00282828" Background="0x00282828" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x00EFD966" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="String" Foreground="0x00721CF9" Background="0x02000000" BoldFont="Yes"/>
 						</Items>
 					</Category>
 					<Category GUID="{E0187991-B458-4F7E-8CA9-42C9A573B56C}" FontIsDefault="Yes">
 						<Items>
 							<Item Name="Keyword" Foreground="0x00EFD966" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="String" Foreground="0x00721CF9" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="String(C# @ Verbatim)" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types" Foreground="0x001F97FF" Background="0x01000001" BoldFont="Yes"/>
 							<Item Name="User Types(Value types)" Foreground="0x001F97FF" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="User Types(Interfaces)" Foreground="0x001F97FF" Background="0x02000000" BoldFont="Yes"/>
