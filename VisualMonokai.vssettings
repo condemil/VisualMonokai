@@ -7,7 +7,14 @@
 		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
 			<PropertyValue name="Version">2</PropertyValue>
 			<FontsAndColors Version="2.0">
-				<Categories/>
+				<Categories>
+					<Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="CurrentLineActiveFormat" Foreground="0x00242424" Background="0x00242424" BoldFont="No"/>
+							<Item Name="CurrentLineInactiveFormat" Foreground="0x00282828" Background="0x00282828" BoldFont="No"/>
+						</Items>
+					</Category>
+				</Categories>
 			</FontsAndColors>
 		</Category>
 	</Category>
