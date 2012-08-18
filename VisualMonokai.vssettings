@@ -15,6 +15,7 @@
 							<Item Name="Keyword" Foreground="0x00EFD966" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Line Number" Foreground="0x008A908F" Background="0x01000001" BoldFont="No"/>
 							<Item Name="Number" Foreground="0x00FF81AE" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Operator" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
@@ -22,6 +23,7 @@
 						<Items>
 							<Item Name="Keyword" Foreground="0x00EFD966" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Number" Foreground="0x00FF81AE" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Operator" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String(C# @ Verbatim)" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types" Foreground="0x001F97FF" Background="0x01000001" BoldFont="No"/>
