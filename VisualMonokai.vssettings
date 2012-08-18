@@ -34,6 +34,19 @@
 							<Item Name="User Types(Delegates)" Foreground="0x001F97FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types(Enums)" Foreground="0x001F97FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types(Type parameters)" Foreground="0x001F97FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute Quotes" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML CData Section" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Delimiter" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Doc Attribute" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Doc Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Doc Tag" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Keyword" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Name" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Processing Instruction" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Text" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="Yes"/>
 						</Items>
 					</Category>
 				</Categories>
