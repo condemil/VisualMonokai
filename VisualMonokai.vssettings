@@ -20,6 +20,7 @@
 							<Item Name="HTML Operator" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Server-Side Script" Foreground="0x00000000" Background="0x0074DBE6" BoldFont="Yes"/>
 							<Item Name="HTML Tag Delimiter" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Javascript XML Documentation Comment" Foreground="0x005E7175" Background="0x01000001" BoldFont="Yes"/>
 							<Item Name="Line Number" Foreground="0x008A908F" Background="0x01000001" BoldFont="No"/>
 						</Items>
 					</Category>
