@@ -42,6 +42,7 @@
 							<Item Name="XML Name" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Processing Instruction" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="XML Text" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XSLT Keyword" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
 				</Categories>
