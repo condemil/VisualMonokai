@@ -12,6 +12,14 @@
 						<Items>
 							<Item Name="CurrentLineActiveFormat" Foreground="0x00282828" Background="0x00282828" BoldFont="No"/>
 							<Item Name="CurrentLineInactiveFormat" Foreground="0x00242424" Background="0x00242424" BoldFont="No"/>
+							<Item Name="HTML Attribute" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Attribute Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="HTML Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="HTML Element Name" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Entity" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Operator" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Server-Side Script" Foreground="0x00000000" Background="0x0074DBE6" BoldFont="Yes"/>
+							<Item Name="HTML Tag Delimiter" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Line Number" Foreground="0x008A908F" Background="0x01000001" BoldFont="No"/>
 						</Items>
 					</Category>
