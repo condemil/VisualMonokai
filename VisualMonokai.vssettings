@@ -10,6 +10,12 @@
 				<Categories>
 					<Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontIsDefault="Yes">
 						<Items>
+							<Item Name="CSS Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS Keyword" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Property Name" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS Property Value" Foreground="0x00FF81AE" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS Selector" Foreground="0x00721CF9" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CSS String Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="CurrentLineActiveFormat" Foreground="0x00282828" Background="0x00282828" BoldFont="No"/>
 							<Item Name="CurrentLineInactiveFormat" Foreground="0x00242424" Background="0x00242424" BoldFont="No"/>
 							<Item Name="HTML Attribute" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
