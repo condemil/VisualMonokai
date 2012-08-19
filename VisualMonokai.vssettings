@@ -44,6 +44,19 @@
 							<Item Name="User Types(Delegates)" Foreground="0x001F97FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types(Enums)" Foreground="0x001F97FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types(Type parameters)" Foreground="0x001F97FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Quotes" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML CData Section" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Delimiter" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Keyword" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Markup Extension Class" Foreground="0x00FF81AE" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Name" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XAML Name" Foreground="0x00721CF9" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Processing Instruction" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Text" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute Quotes" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="Yes"/>
