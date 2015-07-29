@@ -34,18 +34,18 @@ HTML
 
 CSS
 
-![HTML Color Scheme Screenshot][css]
+![CSS Color Scheme Screenshot][css]
 
 
 Javascript
 
-![HTML Color Scheme Screenshot][js]
+![Javascript Color Scheme Screenshot][js]
 
-[csharp]:http://github.com/condemil/VisualMonokai/raw/master/Screenshots/cs.png
-[xaml]:http://github.com/condemil/VisualMonokai/raw/master/Screenshots/xaml.png
-[html]:http://github.com/condemil/VisualMonokai/raw/master/Screenshots/html.png
-[css]:http://github.com/condemil/VisualMonokai/raw/master/Screenshots/css.png
-[js]:http://github.com/condemil/VisualMonokai/raw/master/Screenshots/js.png
+[csharp]:http://raw.github.com/condemil/VisualMonokai/master/Screenshots/cs.png
+[xaml]:http://raw.github.com/condemil/VisualMonokai/master/Screenshots/xaml.png
+[html]:http://raw.github.com/condemil/VisualMonokai/master/Screenshots/html.png
+[css]:http://raw.github.com/condemil/VisualMonokai/master/Screenshots/css.png
+[js]:http://raw.github.com/condemil/VisualMonokai/master/Screenshots/js.png
 
 
 ## Information
