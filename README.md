@@ -41,11 +41,11 @@ Javascript
 
 ![HTML Color Scheme Screenshot][js]
 
-[csharp]:/condemil/VisualMonokai/blob/master/Screenshots/cs.png?raw=true
-[xaml]:/condemil/VisualMonokai/blob/master/Screenshots/xaml.png?raw=true
-[html]:/condemil/VisualMonokai/blob/master/Screenshots/html.png?raw=true
-[css]:/condemil/VisualMonokai/blob/master/Screenshots/css.png?raw=true
-[js]:/condemil/VisualMonokai/blob/master/Screenshots/js.png?raw=true
+[csharp]:Screenshots/cs.png?raw=true
+[xaml]:Screenshots/xaml.png?raw=true
+[html]:Screenshots/html.png?raw=true
+[css]:Screenshots/css.png?raw=true
+[js]:Screenshots/js.png?raw=true
 
 
 ## Information
